@@ -6,9 +6,9 @@ Made by [gnog#2259](https://discord.com/users/487609645549223941)
 
 *   Press the `code` button at the top of the github page and `Download ZIP`
 
-*   Open File Explorer and navigate to game folder
-    Windows Default: `C:\Program Files (x86)\Steam\steamapps\common\Logic World\GameData`
-    Mac Default: `~/Library/Application Support/Steam/steamapps/common/Logic World/GameData`
+*   Open File Explorer and navigate to game folder  
+    Windows Default: `C:\Program Files (x86)\Steam\steamapps\common\Logic World\GameData`  
+    Mac Default: `~/Library/Application Support/Steam/steamapps/common/Logic World/GameData`  
     Linux Default: `cd "~/.local/share/Steam/steamapps/common/Logic World/GameData"`
 
 *   Extract the ZIP file we retrieved from the first step, into the folder we navigated to.
@@ -17,9 +17,9 @@ Made by [gnog#2259](https://discord.com/users/487609645549223941)
 
 ### With `git` CLI
 
-*   In a terminal: Navigate to game folder
-    Windows Default: `dir "C:\Program Files (x86)\Steam\steamapps\common\Logic World"`
-    Mac Default: `cd "~/Library/Application Support/Steam/steamapps/common/Logic World"`
+*   In a terminal: Navigate to game folder  
+    Windows Default: `dir "C:\Program Files (x86)\Steam\steamapps\common\Logic World"`  
+    Mac Default: `cd "~/Library/Application Support/Steam/steamapps/common/Logic World"`  
     Linux Default: `cd "~/.local/share/Steam/steamapps/common/Logic World"`
 
 *   Run
