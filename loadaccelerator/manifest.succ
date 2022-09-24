@@ -1,0 +1,8 @@
+ID: loadaccelerator
+Name: Load Accelerator
+Author: gnog
+Version: 1.0.0
+Priority: 1
+ClientOnly: true
+Dependencies:
+    - lwharmony
